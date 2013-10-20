@@ -1,3 +1,5 @@
+NOTE: simply changed gemspec to use rails 4.0.0 stable!!
+
 Active Record Session Store
 ===========================
 
